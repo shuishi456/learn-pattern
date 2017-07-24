@@ -1,4 +1,4 @@
-package com.learn.vistor.base;
+package com.learn.visitor.base;
 
 /**
  * Created by Administrator on 2017/7/19.

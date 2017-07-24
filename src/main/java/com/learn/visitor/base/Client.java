@@ -1,4 +1,4 @@
-package com.learn.vistor.base;
+package com.learn.visitor.base;
 
 import java.util.List;
 
